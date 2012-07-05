@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[A PHP Guide to Elasticsearch]]></title>
-  <link href="http://farrelley.github.com/php-guide-to-elasticsearch/atom.xml" rel="self"/>
+  <title><![CDATA[Category: PHP | A PHP Guide to Elasticsearch]]></title>
+  <link href="http://farrelley.github.com/php-guide-to-elasticsearch/blog/categories/php/atom.xml" rel="self"/>
   <link href="http://farrelley.github.com/php-guide-to-elasticsearch/"/>
   <updated>2012-07-04T20:32:17-04:00</updated>
   <id>http://farrelley.github.com/php-guide-to-elasticsearch/</id>
