@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Shaun Farrell]]></title>
+  <link href="http://farrelley.github.com/php-guide-to-elasticsearch/atom.xml" rel="self"/>
+  <link href="http://farrelley.github.com/php-guide-to-elasticsearch/"/>
+  <updated>2012-07-04T20:21:20-04:00</updated>
+  <id>http://farrelley.github.com/php-guide-to-elasticsearch/</id>
+  <author>
+    <name><![CDATA[Shaun Farrell]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[introduction]]></title>
+    <link href="http://farrelley.github.com/php-guide-to-elasticsearch/2012/07/01/introduction/"/>
+    <updated>2012-07-01T09:51:00-04:00</updated>
+    <id>http://farrelley.github.com/php-guide-to-elasticsearch/2012/07/01/introduction</id>
+    <content type="html"><![CDATA[<p>This is the introduction</p>
+]]></content>
+  </entry>
+  
+</feed>

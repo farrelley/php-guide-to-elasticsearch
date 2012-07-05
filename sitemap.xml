@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://farrelley.github.com/php-guide-to-elasticsearch/2012/07/01/introduction/</loc>
+        <lastmod>2012-07-01T10:52:06-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://farrelley.github.com/php-guide-to-elasticsearch/404.html</loc>
+        <lastmod>2012-07-01T10:38:49-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://farrelley.github.com/php-guide-to-elasticsearch/about/</loc>
+        <lastmod>2012-07-01T10:38:49-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://farrelley.github.com/php-guide-to-elasticsearch/blog/archives/</loc>
+        <lastmod>2012-07-01T10:52:06-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://farrelley.github.com/php-guide-to-elasticsearch/</loc>
+        <lastmod>2012-07-01T10:52:06-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://farrelley.github.com/php-guide-to-elasticsearch/resources/</loc>
+        <lastmod>2012-07-01T10:51:18-04:00</lastmod>
+    </url>
+</urlset>
